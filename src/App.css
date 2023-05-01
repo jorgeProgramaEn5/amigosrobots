@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'robot_title';
+  src: url('./fonts/computer_robot/COMPUTERRobot.ttf');
+}
+
+h1 {
+  font-family: 'robot_title', sans-serif;
+  font-size: 50px;
+  font-weight: 10px;
+  color: #0ccac4;
+}
