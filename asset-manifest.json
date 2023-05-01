@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/amigosrobots/static/css/main.c0d716b5.css",
+    "main.js": "/amigosrobots/static/js/main.ba9bba30.js",
+    "static/js/787.5fe43a0e.chunk.js": "/amigosrobots/static/js/787.5fe43a0e.chunk.js",
+    "static/media/COMPUTERRobot.ttf": "/amigosrobots/static/media/COMPUTERRobot.7641393b632c565b584c.ttf",
+    "index.html": "/amigosrobots/index.html",
+    "main.c0d716b5.css.map": "/amigosrobots/static/css/main.c0d716b5.css.map",
+    "main.ba9bba30.js.map": "/amigosrobots/static/js/main.ba9bba30.js.map",
+    "787.5fe43a0e.chunk.js.map": "/amigosrobots/static/js/787.5fe43a0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0d716b5.css",
+    "static/js/main.ba9bba30.js"
+  ]
+}
